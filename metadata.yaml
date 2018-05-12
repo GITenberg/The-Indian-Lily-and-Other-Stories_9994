@@ -1,5 +1,5 @@
 _repo: The-Indian-Lily-and-Other-Stories_9994
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Lewisohn, Ludwig
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4904'
     url: http://www.gutenberg.org/2009/agents/4904
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Lewisohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sudermann, Hermann
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2769
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9994#The-Indian-Lily-and-Other-Stories
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
